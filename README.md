@@ -5,9 +5,9 @@ SEE LIVE [DEMO](https://coronavirusupdates.herokuapp.com)
 
 ## USAGE
 
-GET Request | Example
------------- | -------------
-/{countryname} | /Italy
+GET Request | Example | Response items
+------------ | ------------- | -------------
+/{countryname} | /Italy | Country, Cases, CasesToday, Deaths, DeathsToday, Recovered, Flag, Date
 
 ## Screenshots
   
